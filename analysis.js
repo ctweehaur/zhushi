@@ -2,7 +2,7 @@
 // 📖 《竹石》深度文本赏析数据库 (analysis.js) - 第一句至第四句标准对齐版
 // ==========================================================================
 
-const sectionUnit = "句"; // 👈 供 index.html 识别，将“第X段”自动切换为“第X句”
+
 
 const U_TAG = (text) => `<span class="proper-noun">${text}</span>`;
 
